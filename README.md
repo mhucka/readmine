@@ -65,9 +65,7 @@ The space under the first paragraph and _before_ the [Table of Contents](#table-
 
 The [Introduction](#introduction) and [Usage](#usage) sections are described above.
 
-In the [Known issues and limitations](#known-issues) section, summarize any notable issues and/or limitations of your software.  This includes situations or applications that were never intended to be handled by the software, as well as any known bugs.  If there are none, you can say there are none!
-
-The [Getting help](#getting-help) section should inform readers of how they can contact you, or at least how they can report problems they may encounter.  The [Contributing](#contributing) section is optional; if your repository is for a project that accepts open-source contributions, then this section is where you can explain to readers how they can go about making contributions.
+In the [Known issues and limitations](#known-issues) section, summarize any notable issues and/or limitations of your software.  The [Getting help](#getting-help) section should inform readers of how they can contact you, or at least, how they can report problems they may encounter.  The [Contributing](#contributing) section is optional; if your repository is for a project that accepts open-source contributions, then this section is where you can explain to readers how they can go about making contributions.
 
 The [License](#license) section should state any copyright asserted on the project materials as well as the terms of use of the software, files and other materials found in the project repository.  Finally, the [Authors and Acknowledgments](#authors-and-acknowledgments) section should inform readers who the authors are; it is also a place where you can acknowledge other contributions to the work and the use of other people's software or tools.
 
@@ -103,9 +101,9 @@ This README file is distributed under the terms of the [Creative Commons 1.0 Uni
 Authors and acknowledgments
 ---------------------------
 
-The original author of this file is [Mike Hucka](http://www.cds.caltech.edu/~mhucka/).
+In this section, list the authors and contributors to your software project.  (The original author of this file is [Mike Hucka](http://www.cds.caltech.edu/~mhucka/).)
 
-In the process of developing this file, I used not only my own ideas and experiences &ndash; I read many (sometimes contradictory) recommendations for README files and examined real READMEs in actual use, and tried to distill the best ideas into the result you see here.  Sources included the following:
+If your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt.  For example, in the process of developing this file, I used not only my own ideas and experiences &ndash; I read many (sometimes contradictory) recommendations for README files and examined real READMEs in actual use, and tried to distill the best ideas into the result you see here.  Sources included the following:
 
 * http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 * https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project
