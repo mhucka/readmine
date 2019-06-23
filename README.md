@@ -59,6 +59,8 @@ The rest of this section explains the principles behind this README file.  If th
 
 The first paragraph in the README file (under the title at the very top) should summarize the software in a concise fashion, preferably using no more than one or two sentences.
 
+<p align="center"><img width="80%" src=".graphics/screenshot-top-paragraph.png"></p>
+
 The space under the first paragraph and _before_ the [Table of Contents](#table-of-contents) is a good location for optional [badges](https://github.com/badges/shields), which are small visual tokens commonly used on GitHub repositories to communicate project status, dependencies, versions, DOIs, and other information.  The particular badges and colors you use depend on your project and personal tastes.
 
 The [Introduction](#introduction) and [Usage](#usage) sections are described above.
