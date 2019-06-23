@@ -17,7 +17,8 @@ Table of contents
 * [Getting help](#getting-help)
 * [Contributing](#contributing)
 * [License](#license)
-* [Authors and Acknowledgments](#authors-and-acknowledgments)
+* [Authors and history](#authors-and-history)
+* [Acknowledgments](#authors-and-acknowledgments)
 
 
 Introduction
@@ -98,12 +99,16 @@ License
 This README file is distributed under the terms of the [Creative Commons 1.0 Universal license (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).  The license applies to this file and other files in the [GitHub repository](http://github.com/mhucka/readmine) hosting this file. This does _not_ mean that you, as a user of this README file in your software project, must also use CC0 license!  You may use any license for your work that you see fit.
 
 
-Authors and acknowledgments
+Authors and history
 ---------------------------
 
-In this section, list the authors and contributors to your software project.  (The original author of this file is [Mike Hucka](http://www.cds.caltech.edu/~mhucka/).)
+In this section, list the authors and contributors to your software project.  (The original author of this file is [Mike Hucka](http://www.cds.caltech.edu/~mhucka/).)  Adding additional notes here about the history of the project can make it more interesting and compelling.
 
-If your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt.  For example, in the process of developing this file, I used not only my own ideas and experiences &ndash; I read many (sometimes contradictory) recommendations for README files and examined real READMEs in actual use, and tried to distill the best ideas into the result you see here.  Sources included the following:
+
+Acknowledgments
+---------------
+
+If your work was funded by any organization or institution, acknowledge their support here.  In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.  For example, in the process of developing this file, I used not only my own ideas and experiences &ndash; I read many (sometimes contradictory) recommendations for README files and examined real READMEs in actual use, and tried to distill the best ideas into the result you see here.  Sources included the following:
 
 * http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 * https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project
