@@ -46,6 +46,10 @@ Sometimes, subsections may be needed for different operating systems or particul
 Usage
 -----
 
+This section explains the principles behind this README file.  If this repository were for actual _software_, this [Usage](#usage) section would explain more about how to run the software, what kind of output or behavior to expect, and so on.
+
+### Basic operation
+
 A suggested approach for using this example README file is as follows:
 
 1. Copy the [source file](README.md) for this file to your repository and commit it to your version control system
@@ -54,11 +58,7 @@ A suggested approach for using this example README file is as follows:
 4. Commit the new text to your version control system
 5. Update your README file as your software evolves
 
-The rest of this section explains the principles behind this README file.  If this repository were for actual _software_, this [Usage](#usage) section would explain more about how to run the software, what kind of output or behavior to expect, and so on.
-
-### Basic operation
-
-The first paragraph in the README file (under the title at the very top) should summarize the software in a concise fashion, preferably using no more than one or two sentences.
+The first paragraph in the README file (under the title at the very top) should summarize your software in a concise fashion, preferably using no more than one or two sentences.
 
 <p align="center"><img width="80%" src=".graphics/screenshot-top-paragraph.png"></p>
 
