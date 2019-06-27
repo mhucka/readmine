@@ -4,7 +4,8 @@ READMINE: Suggested template for software READMEs
 This is an example README file demonstrating a suggested README file structure for software projects on GitHub.  You can copy this file into your project repository and edit the text as needed.
 
 [![License](https://img.shields.io/badge/License-CC0-lightgray.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Latest release](https://img.shields.io/badge/Latest_release-1.0.0-b44e88.svg?style=flat-square)](http://shields.io)
+[![Latest release](https://img.shields.io/badge/Latest_release-1.0.2-b44e88.svg?style=flat-square)](http://shields.io)
+[![DOI](http://img.shields.io/badge/DOI-10.22002%20%2f%20D1.1252-blue.svg?style=flat-square)](https://data.caltech.edu/records/1252)
 
 
 Table of contents
