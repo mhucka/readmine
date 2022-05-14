@@ -1,0 +1,21 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Caltech Library"
+    given-names: Mike
+    family-names: Hucka
+    orcid: "0000-0001-9105-5960"
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/mhucka/readmine"
+title: "READMINE: Example README file for software projects"
+date-released: 2022-05-14
+version: "1.0.6"
+doi: 10.22002/20173
+keywords: 
+  - README
+  - documentation
+  - file template
+  - best practices
+...
