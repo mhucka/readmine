@@ -1,11 +1,11 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "READMINE",
+  "name": "READMINE – Example README file for software projects",
   "identifier": "readmine",
   "description": "Example README file demonstrating a suggested README file structure for software projects",
-  "version": "1.0.7",
-  "datePublished": "2024-01-17",
+  "version": "2.0.0",
+  "datePublished": "2024-02-07",
   "dateCreated": "2019-06-21",
   "author": [
     {
@@ -48,6 +48,7 @@
   ],
   "copyrightYear": 2024,
   "license": "https://github.com/mhucka/readmine/blob/main/LICENSE",
+  "url": "https://mhucka.github.io/readmine",
   "isAccessibleForFree": true,
   "codeRepository": "https://github.com/mhucka/readmine",
   "readme": "https://github.com/mhucka/readmine/blob/main/README.md",
