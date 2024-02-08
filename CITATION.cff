@@ -11,6 +11,7 @@ version: 2.0.0
 date-released: 2024-02-07
 url: https://mhucka.github.io/readmine
 repository-code: https://github.com/mhucka/readmine
+doi: 10.5281/zenodo.10633361
 license: MIT
 type: software
 keywords:

@@ -4,7 +4,7 @@ This is an example README file demonstrating a suggested structure for README fi
 
 [![License](https://img.shields.io/badge/License-CC0-lightgray.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Latest release](https://img.shields.io/github/v/release/mhucka/readmine.svg?style=flat-square&color=b44e88&label=Latest%20release)](https://github.com/mhucka/readmine/releases)
-[![DOI](http://img.shields.io/badge/DOI-10.22002%20%2f%20D1.20173-blue.svg?style=flat-square)](https://data.caltech.edu/records/20173)
+[![DOI](http://img.shields.io/badge/DOI-10.5281%2fzenodo.10633361-blue.svg?style=flat-square)](https://zenodo.org/records/10633361)
 [![Mentioned in Awesome Awesome README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/matiassingers/awesome-readme)
 
 
