@@ -23,14 +23,14 @@ This is an example README file demonstrating a suggested structure for README fi
 
 ## Introduction
 
-This repository contains a README file in Markdown format. The file is meant to provide a self-documenting template for README files, as well an illustration of what the file can be expected to look like. It is based on many other people's examples and recommendations for README files, as well as this author's own experiences of creating many open-source projects and repositories over three decades.
+A common convention in software development is to place a file named _README_ at the top level of a project's source code repository. The file is used to provide basic documentation about the project. The file you are reading now is intended as a self-documenting template for README files, as well an illustration of what the file can be expected to look like. Its structure is based on many other people's examples and recommendations for README files, as well as the author's own experiences of creating open-source projects and repositories over three decades. It is written in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format, but could easily be converted to other formats.
 
 For a real software project, the [Introduction](#introduction) section – which you are presently reading – should summarize the motivations for creating the software, the need(s) addressed by the software, what the software does, and optionally, links to resources that can help orient readers. Ideally, this section should be short and use plain language. Keep in mind that not all readers will be familiar with the topic area.
 
 
 ## Installation
 
-Begin this section by describing prerequisites needed to use the software. Examples include required hardware, operating systems, software frameworks, compilers, and/or interpreters.
+Begin this [Installation](#installation) section by describing prerequisites needed to use the software. Examples include required hardware, operating systems, software frameworks, compilers, and/or interpreters.
 
 Next, provide step-by-step instructions for installing your software, preferably with examples of commands that can be copy-pasted by readers into their computing environments. If your software can be installed using common installers or package managers (e.g., `pip`, `npm`, `brew`, `apt`, etc.), illustrate how it can be done using [code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) in the Markdown file so that it's clear to readers. For example,
 
@@ -38,7 +38,7 @@ Next, provide step-by-step instructions for installing your software, preferably
 pip install yoursoftware
 ```
 
-For installation methods that don't involve command lines, providing screenshots along with written instructions can greatly help readers figure out what they need to do.
+For installation methods that don't involve command lines, providing screenshots along with written instructions can help readers figure out what they need to do.
 
 Subsections may be appropriate within this [Installation](#installation) section for different operating systems or particularly complicated installations. Keep in mind, though, that the more complicated the installation process is, the more likely that users will encounter difficulties and give up.
 
