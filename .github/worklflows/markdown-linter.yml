@@ -1,0 +1,34 @@
+# Summary: GitHub Actions workflow to run a Markdown linter on .md files.
+
+name: Markdown file linter
+run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.md'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '*.md'
+  workflow_dispatch:
+    paths:
+      - '*.md'
+
+jobs:
+  lint:
+    name: Run Markdown linter
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out copy of git repository.
+        uses: actions/checkout@v4
+
+      - name: Run Markdownlint on .md files.
+        uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          config: .markdownlint.json
+          globs: |
+            *.md
